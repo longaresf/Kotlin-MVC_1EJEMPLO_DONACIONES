@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVC_1EJEMPLO_DONACIONES</string>
+    <string name="total_donaciones">Total donaciones : %1$s</string>
+    <string name="ingrese_una_donaci_n">Ingrese una Donación</string>
+    <string name="donaci_n">Donación</string>
+    <string name="donar">DONAR</string>
+</resources>
