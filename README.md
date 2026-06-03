@@ -1,16 +1,23 @@
 # Kotlin-MVC_1EJEMPLO_DONACIONES
 
 ## Description
-This project is a generic application based on the detected files. It does not have any specific description provided.
+This project was detected based on the files provided and does not contain any specific description.
 
 ## Tech Stack
 - **Programming Language**: Kotlin
 - **Framework**: MVC (Model-View-Controller)
-
+- **Tech Components**:
+  - **Java Desktop Application**: The presence of `src/main/java` suggests this is a Java-based desktop application.
+  
 ## Usage
-No additional setup or usage instructions are available as this project was detected to be a generic application with the following files:
-- `Kotlin-MVC_1EJEMPLO_DONACIONES`
 
-This project does not contain any specific configuration files, libraries, or dependencies that would require special installation steps. Users should consult the documentation for Kotlin and MVC frameworks if needed.
+### Environment Setup
+No specific environment setup instructions are provided. Users should ensure that their development environment supports Kotlin and the MVC framework.
 
-Note: The provided repository name "Kotlin-MVC_1EJEMPLO_DONACIONES" contains a placeholder (1EJEMPLO) which is not relevant to the file structure analysis or tech stack identification. Therefore, I have used this placeholder in the README for demonstration purposes.
+### Running the Application
+- For a Java Desktop Application, users need to have a JDK (Java Development Kit) installed on their system. The `src/main/java` directory contains the source code for the application.
+  
+### Additional Information
+- **Java Desktop Application**: Users should consult documentation specific to Java and MVC frameworks if needed.
+
+Note: The placeholder "1EJEMPLO" in the repository name is not relevant to file structure analysis or tech stack identification.
